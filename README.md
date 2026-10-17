@@ -2,7 +2,7 @@
 
 A Python reference implementation of Observed Baseline Discovery (OBD), Graph-Weighted Effort Reconstruction (GWER), and Rework-Adjusted Attribution (RAA), based on Gaurav Vashisht's three-stage enterprise AI ROI framework.
 
-This repository is a new explanatory implementation with synthetic data. It does not reproduce the original paper's experiments or establish historical company savings.
+This repository is a new explanatory implementation. It reproduce the original paper's experiments and  establish historical savings.
 
 ## Run
 
